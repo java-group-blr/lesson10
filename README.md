@@ -19,7 +19,7 @@ Where to learn (Spring core):
 
 ### This is the last lesson
 
-But this is just start to new world :)
+But this is just start to a new world :)
 
 What to learn later:
  - Spring Boot
